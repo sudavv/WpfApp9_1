@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace WpfApp9_1
+namespace WpfApp8_1
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml
